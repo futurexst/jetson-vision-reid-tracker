@@ -1,0 +1,11 @@
+path: /home/pbg/pbg_project/p3_proj_ws/block_project
+train: train/images
+val: val/images
+
+nc: 5
+names:
+  0: obj_1
+  1: obj_2
+  2: obj_3
+  3: obj_4
+  4: obj_5

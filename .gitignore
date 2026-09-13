@@ -1,0 +1,27 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Model weights (see README for download/conversion)
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Backups / editor
+*.bak*
+*.swp
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
