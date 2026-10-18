@@ -6,7 +6,7 @@ RealSense D435 입력부터 검출, 추적, 타겟 재식별, 제어 명령 발�
 2026년 Physical AI 부트캠프(K-디지털 트레이닝 960시간) 최종 프로젝트 4인 팀 중 본인 담당 범위이며,
 AGV 주행(Nav2) · 로봇팔 파지(MoveIt2) · 관제 대시보드는 팀원이 담당했습니다.
 
-▶ **실증 영상 (1분)** : [Person Re-ID 실증 — 가려져도 같은 사람을 찾는다 (YOLO11n · CLIP-ReID · Jetson Orin Nano)](https://youtu.be/m5VSNCaXBmo)
+▶ **실증 영상 (1분 05초)** : [Person Re-ID 실증 — 가려져도 같은 사람을 찾는다 (YOLO11n · CLIP-ReID · Jetson Orin Nano)](https://youtu.be/ilEmrrfroBM)
 
 ---
 
